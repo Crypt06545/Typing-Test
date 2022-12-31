@@ -6,7 +6,7 @@
 
 Run index.html in a browser
 
-Try it - [WordBeater Game](https://bradtraversy.github.io/wordbeater)
+Try it - [WordBeater Game](https://typing-test-fv7o.onrender.com)
 
 ## App Info
 
